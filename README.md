@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-## 🎓 knowledge
+## 🎓 Aprendizado
 
 <table > 
 <tbody>
